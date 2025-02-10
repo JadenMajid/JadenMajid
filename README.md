@@ -27,6 +27,6 @@ B.Sc. Major in Computer Science **—** *2021-2026*
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,py,java,powershell,mysql,regex,azure,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=rust,py,java,powershell,mysql,regex,postman" />
   </a>
 </p>
