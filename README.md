@@ -15,11 +15,11 @@ B.Sc. Major in Computer Science **—** *2021-2026*
 <tbody>
   <tr>
     <td><b>Hong Kong Disneyland</b>  </td>
-    <td><br>Technology &amp; Digital Intern <br> <em>Sept. 2024  - Present</em> <br><br></td>
+    <td><br>Technology &amp; Digital Intern <br> <em>Sept. 2024  - Aug. 2025</em> <br><br></td>
   </tr>
   <tr>
     <td><b>Deloitte Digital Consulting</b><br></td>
-    <td><br>Digital Transformation Intern <br> <em>June  2024 - Present</em> <br><br></td>
+    <td><br>Digital Transformation Intern <br> <em>June  2024 - Aug. 2024</em> <br><br></td>
   </tr>
 </tbody>
 </table></div>
