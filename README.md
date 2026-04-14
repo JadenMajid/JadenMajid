@@ -1,28 +1,6 @@
 # Jaden Majid
 
-## Education 
-
-### **The University of British Columbia**
-
-B.Sc. Major in Computer Science **—** *2021-2026*
-
-## Work Experience
-
-<div class="tg-wrap"><table style="undefined;table-layout: fixed; width: 50%"><colgroup>
-<col style="width: 280px">
-<col style="width: 329px">
-</colgroup>
-<tbody>
-  <tr>
-    <td><b>Hong Kong Disneyland</b>  </td>
-    <td><br>Technology &amp; Digital Intern <br> <em>Sept. 2024  - Aug. 2025</em> <br><br></td>
-  </tr>
-  <tr>
-    <td><b>Deloitte Digital Consulting</b><br></td>
-    <td><br>Digital Transformation Intern <br> <em>June  2024 - Aug. 2024</em> <br><br></td>
-  </tr>
-</tbody>
-</table></div>
+B.Sc. Major in Computer Science @ UBC, you can find my website at <a href="https://jmajid.com">jmajid.com</a>
 
 ## Skills
 <p align="center">
