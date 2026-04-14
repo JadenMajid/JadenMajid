@@ -1,6 +1,6 @@
 # Jaden Majid
 
-B.Sc. Major in Computer Science @ UBC, you can find my website at <a href="https://jmajid.com">jmajid.com</a>
+B.Sc. Major in Computer Science @ UBC. You can find my website at <a href="https://jmajid.com">jmajid.com</a>
 
 ## Skills
 <p align="center">
